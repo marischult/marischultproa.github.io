@@ -1,0 +1,58 @@
+body{
+    background-color:#6b1616e3 ;
+}
+
+h1{
+    color:rgb(1, 4, 32)
+}
+
+div{
+    width: 90%;
+}
+
+img{
+	height: 100%;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.texto{
+    width: 100%;
+    background-color: rgba(137, 201, 247, 0.397);
+    text-align: center;
+}
+.grupo-fotos {
+	width: 100%;
+    background-color: rgba(184, 53, 13, 0.815);
+}
+
+.foto{
+    background-color: rgb(255, 255, 255);
+    width: 30%;
+    display: inline-block;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+
+.myButton {
+	box-shadow: 0px 1px 0px 0px #1c1b18;
+	background-color:#878fd4;
+	border-radius:15px;
+	border:2px solid #406db1;
+	display:inline-block;
+	cursor:pointer;
+	color:#476ca3;
+	font-family:Arial;
+	font-size:14px;
+	font-weight:bold;
+	padding:14px 32px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #0b0c20;
+}
+.myButton:hover {
+	background-color:#283d75;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
