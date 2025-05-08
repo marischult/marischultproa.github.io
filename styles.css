@@ -1,8 +1,7 @@
 @font-face{
 	font-family:"fuente linda";
-src: url("../fonds/LuckiestGuy-Regular.ttf");
+src: url("fonds/LuckiestGuy-Regular.ttf");
 }
-ly:
 body{
     background-color:#5c0909e3 ;
 	font-family: "fuente linda";
@@ -62,4 +61,23 @@ img{
 .myButton:active {
 	position:relative;
 	top:1px;
+}
+
+#listanav{
+	background-color: #283d75;
+	list-style: none;
+	border-radius: 5px;
+}
+
+#listanav a{
+	text-decoration: none;
+	color: cadetblue;
+}
+#listanav a:hover{
+	color: maroon;
+}
+
+#listanav li{
+	display: inline-block;
+	padding: 5px;
 }
