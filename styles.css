@@ -1,12 +1,12 @@
 @font-face{
 	font-family:"fuente linda";
-src: url("fonds/LuckiestGuy-Regular.ttf");
+src: url("../fonds/LuckiestGuy-Regular.ttf");
 }
 ly:
 body{
     background-color:#5c0909e3 ;
-	font-family:"fuente linda"
-	font-size: xx-large
+	font-family: "fuente linda";
+	font-size: xx-large;
 }
 
 h1{
