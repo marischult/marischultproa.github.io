@@ -29,7 +29,7 @@ img{
 }
 .grupo-fotos {
 	width: 100%;
-    background-color: rgba(99, 29, 8, 0.815);
+    background-color: lch(22.12% 42.35 43.77 / 0.815);
 }
 
 .foto{
@@ -40,38 +40,50 @@ img{
     margin-right: 2%;
 }
 
+<a href="#" class="myButton">creme</a>
+
+<a href="#" class="myButton">themeforest</a>
+
+<a href="#" class="myButton">creme</a>
+
 .myButton {
-	box-shadow: 0px 1px 0px 0px #1c1b18;
-	background-color:#878fd4;
-	border-radius:15px;
-	border:2px solid #406db1;
+	box-shadow: -1px 0px 50px 14px #301a06;
+	background:linear-gradient(to bottom, #452b1b 5%, #806248 100%);
+	background-color:#452b1b;
+	border-radius:16px;
+	border:2px solid #47433a;
 	display:inline-block;
 	cursor:pointer;
-	color:#476ca3;
+	color:#d4cabc;
 	font-family:Arial;
-	font-size:14px;
+	font-size:18px;
 	font-weight:bold;
-	padding:14px 32px;
+	padding:13px 31px;
 	text-decoration:none;
-	text-shadow:0px 1px 0px #c4b28144;
+	text-shadow:0px 0px 15px #a5907f;
 }
 .myButton:hover {
-	background-color:#283d75;
+	background:linear-gradient(to bottom, #806248 5%, #452b1b 100%);
+	background-color:#806248;
 }
 .myButton:active {
 	position:relative;
 	top:1px;
 }
 
+        
+
+        
+
 #listanav{
-	background-color: #283d75;
+	background-color: #400;
 	list-style: none;
 	border-radius: 5px;
 }
 
 #listanav a{
 	text-decoration: none;
-	color: rgb(11, 56, 31);
+	color: #cfbb99;
 	font-size: 20px;
 }
 #listanav a:hover{
