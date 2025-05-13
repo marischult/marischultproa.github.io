@@ -3,9 +3,8 @@
 src: url("fonds/LuckiestGuy-Regular.ttf");
 }
 body{
-    background-color: #a5907f;
+    background-color:#3c1b0f;
 	font-family: "fuente linda";
-	font-size: xx-large;
 }
 
 h1{
@@ -29,7 +28,7 @@ img{
 }
 .grupo-fotos {
 	width: 100%;
-    background-color: lch(22.12% 42.35 43.77 / 0.815);
+    background-color: #631d08d0;
 }
 
 .foto{
@@ -71,7 +70,7 @@ img{
         
 
 #listanav{
-	background-color: #400;
+	background-color: #631d08d0;
 	list-style: none;
 	border-radius: 5px;
 }
@@ -88,5 +87,5 @@ img{
 
 #listanav li{
 	display: inline-block;
-	padding: 5px;
+	padding: 1%;
 }
