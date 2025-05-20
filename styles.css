@@ -89,3 +89,10 @@ img{
 	display: inline-block;
 	padding: 1%;
 }
+
+table{
+	background-color:#583122;
+	border: #947268;
+	border:5px#3b1d0a;
+	border-style: double;
+}
