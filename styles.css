@@ -65,9 +65,6 @@ img{
 	top:1px;
 }
 
-        
-
-        
 
 #listanav{
 	background-color: #631d08d0;
@@ -90,9 +87,24 @@ img{
 	padding: 1%;
 }
 
-table{
+.tabla1 th{
 	background-color:#583122;
 	border: #947268;
-	border:5px#3b1d0a;
+	border-style: double;
+}
+
+.tabla1 td {
+	background-color: #583122;
+	border: #cfbb99;
+	border-style: double;
+}
+.tabla2 th{
+	background-color: #1d1c1b;
+	border: #8b8b88;
+	border-style: double;
+}
+.tabla2 td {
+	background-color: #1d1c1b;
+	border: #8b8b88;
 	border-style: double;
 }
