@@ -29,6 +29,10 @@ img{
 .grupo-fotos {
 	width: 100%;
     background-color: #631d08d0;
+	.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+}
 }
 
 .foto{
