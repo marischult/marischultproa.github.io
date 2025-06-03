@@ -1,6 +1,6 @@
 @font-face{
 	font-family:"fuente linda";
-src: url("fonds/LuckiestGuy-Regular.ttf");
+src: url(fonts/Playfair_Display.zip);
 }
 body{
     background-color:#3c1b0f;
@@ -9,7 +9,7 @@ body{
 }
 
 h1{
-    color: #310e10;
+    color: #cfbb99;
 }
 
 div{
@@ -72,7 +72,7 @@ img{
 
 
 #listanav{
-	background-color: #631d08d0;
+	background-color: #584738;
 	list-style: none;
 	border-radius: 5px;
 }
@@ -83,7 +83,7 @@ img{
 	font-size: 20px;
 }
 #listanav a:hover{
-	color: rgb(34, 3, 3);
+	color: #cfbb99;
 	font-size: 22px;
 }
 
